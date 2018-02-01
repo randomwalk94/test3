@@ -1,0 +1,12 @@
+# basic options
+title: My first jekyll website
+author: Hai Le
+email: randomwalk94@domain.com
+description: blah blah
+twitter_username: randomwalk94
+github_username:  randomwalk94
+
+# Build settings
+markdown: kramdown
+mathjax: true
+theme: minima
