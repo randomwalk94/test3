@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
+\\[ \frac{1}{n^{2}} \\]
 
 Reasons:
 - its great.
